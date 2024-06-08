@@ -16,7 +16,7 @@ let userID = 'f5daa2c2-7cb8-4ef9-b728-23eba2154420';
 //How? read line 28 to 30
 
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
-let พร็อกซีไอพี = "104.25.185.47";
+let พร็อกซีไอพี = "pa.alighadrboland.ir";
 // از พร็อกซีไอพี به جای تصادفی استفاده کنید
 // اجازه دهید พร็อกซีไอพี = 'cdn.xn--b6gac.eu.org';
 // ipv6 พร็อกซีไอพี مثال حذف نظر برای استفاده
